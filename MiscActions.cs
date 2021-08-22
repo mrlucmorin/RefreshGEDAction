@@ -3,7 +3,7 @@ Luc Morin, 2021
 
 Misc. Actions
 
-Load the script in Eplan (don't "run" it).
+Load the script in Eplan (don't "run" it). All the Actions defined here will be loaded and available to the platform.
 
 */
 
